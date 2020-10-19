@@ -1,2 +1,2 @@
 # First-site
-Building my site withe the very basics.
+Building my site with the the very basics.
